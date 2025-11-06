@@ -1,0 +1,8 @@
+Point-SAM/pretrained
+Point-SAM
+
+PointNet/pointnet_se_seg.pth
+
+data
+point_cloud_data
+stl_data
